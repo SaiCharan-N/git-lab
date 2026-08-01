@@ -1,1 +1,1 @@
-This repository demonstrates various git operations 
+This repository demonstrates various git operations.
